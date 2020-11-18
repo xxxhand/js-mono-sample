@@ -42,7 +42,8 @@
     "no-continue": 0,
     "no-param-reassign": 0,
     "max-len": 0,
-    "global-require": "off"
+    "global-require": "off",
+    "no-console": "error"
   },
   "globals": {
     "document": false,

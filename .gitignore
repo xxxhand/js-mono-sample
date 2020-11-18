@@ -7,3 +7,5 @@ yarn.lock
 */*.tsbuildinfo
 build
 */build
+*.xml
+public/unit-test
